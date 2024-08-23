@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wortkargersven
 - 👀 I’m interested in languages and gaming
-- 🌱 I’m currently learning java and php
+- 🌱 I’m currently learning java and python
 - 😄 Pronouns: he/him
 
 
